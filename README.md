@@ -28,8 +28,8 @@ Replace {LINK} with the link that you copied.
 
 If the Link copied is this:
 
-[`https://music.youtube.com/watch?v=-mLpe7KUg9U&feature=share`](https://music.youtube.com/watch?v=-mLpe7KUg9U&feature=share)
+`https://music.youtube.com/watch?v=-mLpe7KUg9U&feature=share`
 
 Remove everything that comes after the ampersand. So, the link should look like this at the end:
 
-[`https://music.youtube.com/watch?v=-mLpe7KUg9U`](https://music.youtube.com/watch?v=-mLpe7KUg9U&feature=share)
+`https://music.youtube.com/watch?v=-mLpe7KUg9U`
